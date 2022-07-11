@@ -43,6 +43,7 @@ TextStyle semiBoldText13 =
     GoogleFonts.poppins(fontSize: 13, fontWeight: semiBold);
 
 //BOLD TEXT
+TextStyle boldText9 = GoogleFonts.poppins(fontSize: 9, fontWeight: bold);
 TextStyle boldText10 = GoogleFonts.poppins(fontSize: 10, fontWeight: bold);
 TextStyle boldText11 = GoogleFonts.poppins(fontSize: 11, fontWeight: bold);
 TextStyle boldText12 = GoogleFonts.poppins(fontSize: 12, fontWeight: bold);
